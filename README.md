@@ -6,4 +6,4 @@
 ## Этот репозиторий хранит все моды созданые в АнмиТали и самой групой АнмиТали.
 ## Список модов:
 1. Анми: Новая история вселеной Майнкрафта
-### Gratitude/Благодарность: Forge, MCreator Launcher
+### Gratitude/Благодарность: Forge, MCreator Launcher, Modrinth, CurseForge, Fabric, Sodium, Bukkit, Spigot, GitHub, Oracle, Mojang, Notch, OpenAI (Product ChatGPT 4O)
